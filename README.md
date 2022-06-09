@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there 👋 , my name is Bogdans Zabela!
+
+Frontend Web Developer specializing in React, Vue.js and Angular.
+
+---
+
+Contacts:
+
+* Email: bogdanz@inbox.lv
+* LinkedIn: https://www.linkedin.com/in/bogdans-zabela/
+
+---
+
+Tools I use
+
+* Git
+* React
+* JavaScript & TypeScript
+* TDD
+* HTTP
+* HTML & CSS
+* Clean Code
+* NodeJS basics
+
 
 <!--
 **beffyz/beffyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
