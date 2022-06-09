@@ -1,4 +1,4 @@
-### Hi there 👋 , my name is Bogdans Zabela!
+### Hi there 👋 , my name is Bogdans!
 
 Frontend Web Developer specializing in React, Vue.js and Angular.
 
