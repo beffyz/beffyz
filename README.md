@@ -15,6 +15,8 @@ Tools I use
 
 * Git
 * React
+* Angular
+* Vue.js
 * JavaScript & TypeScript
 * TDD
 * HTTP
