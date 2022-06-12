@@ -11,6 +11,11 @@ Contacts:
 
 ---
 
+## :briefcase: Currently working on 
+### :airplane: [Starwars web application]([https://github.com/nllko/my-flight-planner](https://github.com/beffyz/vue-starwars-pinia))
+
+---
+
 Tools I use
 
 * Git
