@@ -4,15 +4,15 @@ Frontend Web Developer specializing in React, Vue.js and Angular.
 
 ---
 
+## :briefcase: Currently working on 
+* [Starwars web application](https://github.com/beffyz/vue-starwars-pinia)
+
+---
+
 Contacts:
 
 * Email: bogdanz@inbox.lv
 * LinkedIn: https://www.linkedin.com/in/bogdans-zabela/
-
----
-
-## :briefcase: Currently working on 
-### :airplane: [Starwars web application]([https://github.com/nllko/my-flight-planner](https://github.com/beffyz/vue-starwars-pinia))
 
 ---
 
