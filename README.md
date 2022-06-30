@@ -4,11 +4,6 @@ Frontend Web Developer specializing in React, Vue.js and Angular.
 
 ---
 
-## :briefcase: Currently working on 
-### [Starwars web application](https://github.com/beffyz/vue-starwars-pinia)
-
----
-
 Contacts:
 
 * Email: bogdanz@inbox.lv
